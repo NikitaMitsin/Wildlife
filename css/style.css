@@ -121,6 +121,7 @@ header {
   text-transform: uppercase;
   color: #f7f7f7;
   background: url('../img/icons/logo.svg') no-repeat;
+  text-align: center;
 }
 .navigation-top {
   width: 40%;
